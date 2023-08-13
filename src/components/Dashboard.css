@@ -1,0 +1,46 @@
+/* Styles go here */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* > * {
+    font-family: "Poppins", cursive;
+    margin: 0;
+ 
+}
+
+/*body{
+  background: #8c0f0f;  /* fallback for old browsers 
+  background: -webkit-linear-gradient(to right, #41a275, #2c7061, #012318);  /* Chrome 10-25, Safari 5.1-6 
+  background: linear-gradient(to right,  #41a275, #2c7061, #012318); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ 
+  
+}*/
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: rgb(2, 0, 7);
+    background-color: #cd8c56;
+    border-color: #010101;
+}
+
+.nav-tabs {
+    border-bottom: none;
+}
+
+.nav-tabs .nav-link:hover{
+    color: rgb(0, 0, 0);
+    font-size: 19px;
+}
+
+body {
+	background-color: #28574fe8;
+	color: #f3e2e2;
+    
+}
+
+#loanPng{
+    height: 50vh;
+
+}
+
+.inside_con1{
+    width: 50vh;
+}

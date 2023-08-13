@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+/* 
+.Phone_Cnt {
+  border: 2px solid black;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  height: 80vh;
+  font-size: 20px;
+}
+
+.inside_con {
+  border: 2px solid red;
+  height: 80%;
+  position: absolute;
+  top: 25%;
+  width: 30%;
+  margin: auto;
+  padding: 10px;
+}*/
+.inside_con {
+  border: 2px solid rgb(171, 157, 157);
+  height: 70vh;
+  width: 30%;
+  display: flexbox;
+  padding: 30px;
+  margin: auto;
+}
+label {
+  padding: 20px;
+}
+input {
+  border: none;
+  border-bottom: 1px solid gray;
+  padding: 10px;
+}
+
+.btn1 {
+  margin: auto;
+  width: 20%;
+  padding: 20px;
+}
+.smt_btn {
+  margin-top: 25px;
+  font-size: 20px;
+}
+
+.spl_btn {
+  position: relative;
+  width: 40vh;
+}
+
+.spl1 {
+  font-size: 20px;
+  width: 115%;
+  background-color: transparent;
+  color: black;
+  border: 1px solid grey;
+
+  justify-content: space-around;
+}

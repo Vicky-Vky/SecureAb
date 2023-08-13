@@ -1,0 +1,40 @@
+.btn1 {
+  margin: auto;
+  width: 20%;
+  padding: 20px;
+}
+.inside_con1 {
+  height: 50vh;
+  width: 30%;
+  display: flexbox;
+  padding: 30px;
+  margin: auto;
+}
+label {
+  padding: 20px;
+}
+input {
+  border: none;
+
+  border-bottom: 1px solid gray;
+  padding: 10px;
+}
+
+#inp {
+  /* margin-top: 20vh; */
+  position: relative;
+}
+.btn2 {
+  margin-top: 30px;
+}
+.btn3 {
+  position: absolute;
+  top: 44.5vh;
+  left: 47%;
+}
+
+.btn4 {
+  position: absolute;
+  top: 43.1vh;
+  left: 51%;
+}
